@@ -1,3 +1,10 @@
+<img width="1919" height="943" alt="Screenshot 2026-01-04 103816" src="https://github.com/user-attachments/assets/47154b0d-9d79-4334-8288-40da7f8c7c35" />
+<img width="1917" height="642" alt="Screenshot 2026-01-04 104348" src="https://github.com/user-attachments/assets/4934cb42-468f-47d0-a49a-51434c6bcc87" />
+<img width="945" height="861" alt="Screenshot 2026-01-04 110455" src="https://github.com/user-attachments/assets/d06f40af-5701-4884-a706-01f01f885d65" />
+<img width="1856" height="848" alt="Screenshot 2026-01-04 110525" src="https://github.com/user-attachments/assets/96538675-f1c2-45a1-b1d3-2a186be26cf1" />
+<img width="1901" height="867" alt="Screenshot 2026-01-04 120220" src="https://github.com/user-attachments/assets/821a0727-26ac-4560-b757-36bff19cd1b3" />
+<img width="1884" height="860" alt="Screenshot 2026-01-04 120232" src="https://github.com/user-attachments/assets/d30dac05-b8e9-4fa4-ac4b-73fd8677376e" />
+
 **HiveBlog** is a modern, full-stack social blogging platform designed for developers and creators. It features rich content creation, community groups, and a robust real-time communication system.
 
 Built with a **Spring Boot** backend and a **React (Vite)** frontend, it utilizes **WebSockets (STOMP)** for instant messaging and notifications.
@@ -58,12 +65,7 @@ The database handles relations between Users, Posts, Comments, Groups, and ChatM
 ---
 
 cloudinary.cloud-name=your_cloud_name
-<img width="1919" height="943" alt="Screenshot 2026-01-04 103816" src="https://github.com/user-attachments/assets/47154b0d-9d79-4334-8288-40da7f8c7c35" />
-<img width="1917" height="642" alt="Screenshot 2026-01-04 104348" src="https://github.com/user-attachments/assets/4934cb42-468f-47d0-a49a-51434c6bcc87" />
-<img width="945" height="861" alt="Screenshot 2026-01-04 110455" src="https://github.com/user-attachments/assets/d06f40af-5701-4884-a706-01f01f885d65" />
-<img width="1856" height="848" alt="Screenshot 2026-01-04 110525" src="https://github.com/user-attachments/assets/96538675-f1c2-45a1-b1d3-2a186be26cf1" />
-<img width="1901" height="867" alt="Screenshot 2026-01-04 120220" src="https://github.com/user-attachments/assets/821a0727-26ac-4560-b757-36bff19cd1b3" />
-<img width="1884" height="860" alt="Screenshot 2026-01-04 120232" src="https://github.com/user-attachments/assets/d30dac05-b8e9-4fa4-ac4b-73fd8677376e" />
+
 
 ## ⚙️ Installation & Setup
 
